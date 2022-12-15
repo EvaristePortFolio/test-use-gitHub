@@ -12,6 +12,9 @@
             <div class="user_profile-admin" v-else>
                 Not Admin
             </div>
+            <div class="user_profile-admin" >
+                 Admin toujours present
+            </div>
         </div>
         <div class="user_profile-content">
             <ol>
